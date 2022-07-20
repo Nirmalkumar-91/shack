@@ -30,7 +30,7 @@ export default function Footer(props) {
                 <div className="col-lg-6 margin-t-20">
                     <h4>Subscribe</h4>
                     <div className="text-muted margin-t-20">
-                        <p>In an ideal world this text wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts.</p>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                     </div>
                     <form className="form subscribe">
                         <input placeholder="Email" className="form-control" required />
